@@ -4,10 +4,6 @@
 Select a movie or a Tv Show to get IMDB info. 
 <br>
 
-## Prerequisites
-python3 and pip
-
-
 ## Setup
 
 Creating virtual environment
