@@ -4,10 +4,6 @@
 Select a movie or a Tv Show to get IMDB info. 
 <br>
 
-## Prerequisites
-python3 and pip
-
-
 ## Setup
 
 Creating virtual environment
@@ -17,6 +13,7 @@ Creating virtual environment
 ```shell
 python3 -m venv venv
 ```
+Activating environment
 
 Windows: 
 ```shell
@@ -27,6 +24,8 @@ Unix:
 ```shell
 source ./venv/bin/activate
 ```
+
+Upgrade pip and install required modules
 
 ```shell
 pip install upgrade pip
