@@ -144,7 +144,7 @@ class IMDBReviewer:
             for result in results:
                 print("{} -> {}".format(result.text,counter))
                 counter+=1
-            print("*******\n{} -> {}".format("EXIT",counter))
+            print("***************************************************\n{} -> {}".format("EXIT",counter))
             
             try:
                 userInput = int(input("Select one : "))
