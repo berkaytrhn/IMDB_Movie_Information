@@ -164,7 +164,7 @@ class IMDBReviewer:
                 return userInput-1
 
     def queryInput(self):
-        userInput = input("***************************************************\nType a query for IMDB user reviews(-1 for exit) : ")
+        userInput = input("***************************************************\n Type a Movie/Tv-Show name for IMDB Information(-1 for exit) : ")
         if userInput=="-1":
             sys.exit(0)
 
